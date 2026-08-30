@@ -1,5 +1,5 @@
 # Telegram-Proxy-Checker
-EN
+# EN
 Checking MTProto, SOCKS5, and HTTP proxies without the Telegram API
-RU
+# RU
 Проверка MTProto, SOCKS5 и HTTP-прокси без Telegram API
